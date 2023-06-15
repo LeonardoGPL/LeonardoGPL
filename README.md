@@ -6,7 +6,7 @@
 
 ![Leo GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoGPL&hide=contribs&rank_icon=github&show_icons=true&theme=dracula)
 
-## Tecnologias:
+## Tecnologias que eu uso, e estou estudando:
 
 <div style="display: inline_block">
     <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -17,7 +17,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoGPL&layout=compact&theme=dracula)
 
-## Ferramentas: 
+## Ferramentas que já usei, e uso até o momento: 
 <div style="display: inline_block">
     <img align="center" alt="netbeans" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" />
     <img align="center" alt="Arduino" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
@@ -27,7 +27,7 @@
     <img align="center" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 	
 </div><br/>
 
-### Contato:
+### Fique à vontade para entrar em Contato:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-gpl/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leo.gomesleonel@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5515981357979&text=Ol%C3%A1%21+vim+pelo+GitHub&type=phone_number&app_absent=0)
