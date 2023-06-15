@@ -32,3 +32,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leo.gomesleonel@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5515981357979&text=Ol%C3%A1%21+vim+pelo+GitHub&type=phone_number&app_absent=0)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leozin_gpll/)
+
+<br/>
+
+![Snake animation](https://github.com/LeonardoGPL/LeonardoGPL/blob/output/github-contribution-grid-snake.svg)
