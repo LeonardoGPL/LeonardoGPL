@@ -1,6 +1,6 @@
 
 ### Olá! 👋
-### Eu meu nome é Leonardo Gomes Tenho 21 anos, estou estudando Análise e Desenvolvimento de Sistemas. Gosto muito de programar, aprender novas linguagens e sempre disposto a ajudar.
+### Meu nome é Leonardo Gomes Tenho 21 anos, estou estudando Análise e Desenvolvimento de Sistemas. Gosto muito de programar, aprender novas linguagens e sempre disposto a ajudar.
 
 <br/>
 
