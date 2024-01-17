@@ -19,13 +19,12 @@
 
    <h2>🛠 Ferramentas que já usei, e uso até o momento: </h2>
     <div style="display: inline_block" >
-        <img align="center" margin="0.3em" alt="netbeans" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" />
-        <img align="center" margin="0.3em" alt="Arduino" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-        <img align="center" margin="0.3em" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-        <img align="center" margin="0.3em" alt="SqlServer" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-        <img align="center" margin="0.3em" alt="MySql" src="https://img.shields.io/badge/MySQL-444444?style=for-the-badge&logo=mysql&logoColor=white" />
-     <br/>
-        <img align="center" margin="0.3em" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 	
+        <img align="center" alt="netbeans" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" />
+        <img align="center" alt="Arduino" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+        <img align="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+        <img align="center"  alt="MySql" src="https://img.shields.io/badge/MySQL-444444?style=for-the-badge&logo=mysql&logoColor=white" />
+        <img align="center"  alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+        <img align="center" alt="SqlServer" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
     </div><br/>
 
 <h3>📱 Fique à vontade para entrar em Contato:</h3>
