@@ -18,7 +18,7 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoGPL&layout=compact&theme=dracula)
 
    <h2>🛠 Ferramentas que já usei, e uso até o momento: </h2>
-    <div style="display: inline_block">
+    <div >
         <img align="center" border="10px" alt="netbeans" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" />
         <img align="center" border="10px" alt="Arduino" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
         <img align="center" border="10px" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
