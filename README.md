@@ -23,7 +23,7 @@
         <img align="center" border="10px" alt="Arduino" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
         <img align="center" border="10px" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
         <img align="center" border="10px" alt="SqlServer" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-        <img align="center"  margin-right="10px" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+        <img align="center"  margin-right="10px" alt="MySql" src="https://img.shields.io/badge/MySQL-444444?style=for-the-badge&logo=mysql&logoColor=white" />
         <img align="center" margin-right="10px" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 	
     </div><br/>
 
