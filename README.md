@@ -1,4 +1,4 @@
- <img align="right" height="400em" src="https://raw.githubusercontent.com/gist/LeonardoGPL/1146ba92d5dd7362a27a380f53ad0dc7/raw/b4ffe9b77425657a6f33e9698f93632f9457cb6d/gitcard.svg" alt="card">
+<!-- <img align="right" height="400em" src="https://raw.githubusercontent.com/gist/LeonardoGPL/1146ba92d5dd7362a27a380f53ad0dc7/raw/b4ffe9b77425657a6f33e9698f93632f9457cb6d/gitcard.svg" alt="card"> -->
  <h3>Olá! 👋</h3> 
 <h3>Meu nome é Leonardo Gomes Tenho 21 anos, estou estudando Análise e Desenvolvimento de Sistemas. Gosto muito de programar, aprender novas linguagens e sempre disposto a ajudar.</h3>
     
