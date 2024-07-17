@@ -4,7 +4,7 @@
     
 <br/>
     
-![Leo GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoGPL&hide=contribs&rank_icon=github&show_icons=true&theme=dracula)
+<!-- ![Leo GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoGPL&hide=contribs&rank_icon=github&show_icons=true&theme=dracula) -->
     
 <h2>⚙️ Tecnologias que eu uso, e estou estudando:</h2>
 
@@ -15,7 +15,7 @@
         <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
     </div><br/>
     
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoGPL&layout=compact&theme=dracula)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoGPL&layout=compact&theme=dracula) -->
 
    <h2>🛠 Ferramentas que já usei, e uso até o momento: </h2>
     <div style="display: inline_block" >
