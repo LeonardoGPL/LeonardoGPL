@@ -1,37 +1,92 @@
-<!-- <img align="right" height="400em" src="https://raw.githubusercontent.com/gist/LeonardoGPL/1146ba92d5dd7362a27a380f53ad0dc7/raw/b4ffe9b77425657a6f33e9698f93632f9457cb6d/gitcard.svg" alt="card"> -->
- <h3>Olá! 👋</h3> 
-<h3>Meu nome é Leonardo Gomes, tenho 22 anos, graduado em Análise e Desenvolvimento de Sistemas. Gosto muito de programar, aprender novas linguagens e sempre disposto a ajudar.</h3>
-    
-<br/>
-    
-<!-- ![Leo GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoGPL&hide=contribs&rank_icon=github&show_icons=true&theme=dracula) -->
-    
-<h2>⚙️ Tecnologias que eu uso, e estou estudando:</h2>
+<h2 align="left">Olá! 👋</h2>
 
-<div style="display: inline_block">
-        <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-        <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-        <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-        <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-    </div><br/>
-    
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoGPL&layout=compact&theme=dracula) 
+###
 
-   <h2>🛠 Ferramentas que já usei, e uso até o momento: </h2>
-    <div style="display: inline_block" >
-        <img align="center" alt="netbeans" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" />
-        <img align="center" alt="Arduino" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-        <img align="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-        <img align="center"  alt="MySql" src="https://img.shields.io/badge/MySQL-444444?style=for-the-badge&logo=mysql&logoColor=white" />
-        <img align="center"  alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-    </div><br/>
+<h2 align="left">Meu nome é Leonardo Gomes, tenho 22 anos e sou recém-formado em Análise e Desenvolvimento de Sistemas. Estou iniciando uma Pós-Graduação em Arquitetura de Software e busco uma oportunidade na área de TI para aplicar e expandir minhas habilidades em desenvolvimento de software e tecnologia. Quero contribuir para projetos inovadores e desafiadores.</h2>
 
-<h3>📱 Fique à vontade para entrar em Contato:</h3>
-   <a href="https://www.linkedin.com/in/leonardo-gpl/"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:leo.gomesleonel@gmail.com"><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://api.whatsapp.com/send/?phone=5515981357979&text=Ol%C3%A1%21+vim+pelo+GitHub&type=phone_number&app_absent=0"><img align="center" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" /></a>
-    <a href="https://www.instagram.com/leozin.main/"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    
-<br/>
+###
 
-  <!-- ![Snake animation](https://github.com/LeonardoGPL/LeonardoGPL/blob/output/github-contribution-grid-snake.svg) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonardoGPL&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3dqNnVmODZ3YmpteDZncng2aDMyN3k5M2ZzcmRnejE5b3pmdjZyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
+
+###
+
+<h3 align="left">⚙️ Tecnologias que eu uso, e estou estudando:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="35" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="35" alt="android logo"  />
+</div>
+
+###
+
+<h3 align="left">🛠 Ferramentas que já usei, e uso até o momento:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="35" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="35" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="35" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="35" alt="salesforce logo"  />
+</div>
+
+###
+
+<h3 align="left">📞 Fique à vontade para entrar em Contato:</h3>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/LeonardoGPL/LeonardoGPL/output/snake.svg" alt="Snake animation" />
+
+###
