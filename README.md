@@ -1,4 +1,4 @@
-<h2 align="left">Olá! 👋</h2>
+<h2 align="left">Olá! <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" height="30" alt="Hand"></h2>
 
 ###
 
