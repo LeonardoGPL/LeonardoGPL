@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Meu nome é Leonardo Gomes, tenho 22 anos e sou recém-formado em Análise e Desenvolvimento de Sistemas. Estou iniciando uma Pós-Graduação em Arquitetura de Software e busco uma oportunidade na área de TI para aplicar e expandir minhas habilidades em desenvolvimento de software e tecnologia. Quero contribuir para projetos inovadores e desafiadores.</h2>
+<h2 align="left">Meu nome é Leonardo Gomes, tenho 23 anos e sou recém-formado em Análise e Desenvolvimento de Sistemas. Estou iniciando uma Pós-Graduação em Arquitetura de Software e busco uma oportunidade na área de TI para aplicar e expandir minhas habilidades em desenvolvimento de software e tecnologia. Quero contribuir para projetos inovadores e desafiadores.</h2>
 
 ###
 
