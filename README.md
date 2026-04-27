@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">⚙️ Tecnologias que eu uso, e estou estudando:</h3>
+<h3 align="left">⚙️ Tecnologias:</h3>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h3 align="left">🛠 Ferramentas que já usei, e uso até o momento:</h3>
+<h3 align="left">🛠 Ferramentas:</h3>
 
 ###
 
