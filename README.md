@@ -5,13 +5,13 @@
 <h2 align="left">Meu nome é Leonardo Gomes, tenho 23 anos e sou formado em Análise e Desenvolvimento de Sistemas. Estou iniciando uma Pós-Graduação em Arquitetura de Software e busco uma oportunidade na área de TI para aplicar e expandir minhas habilidades em desenvolvimento de software e tecnologia. Quero contribuir para projetos inovadores e desafiadores.</h2>
 
 ###
-
+<!--
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonardoGPL&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
-
+-->
 <img align="right" height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3dqNnVmODZ3YmpteDZncng2aDMyN3k5M2ZzcmRnejE5b3pmdjZyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="programming" />
 
 ###
